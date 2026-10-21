@@ -12,7 +12,7 @@
 
 I am a self-taught AI &amp; Full-Stack Developer from Pakistan building intelligent systems, chatbots, and web apps. Expertise: ML, Deep Learning, NLP, React, Node.js, and Python. Currently building next-gen AI Agents &amp; JARVIS-like assistants. Driven by a competitive programming mindset and automation. Code is poetry, AI is the canvas.
 
-🔭 &nbsp;I'm currently working on **a autocliping project**  
+🔭 &nbsp;I'm currently working on **Flash Quiz**  
 🌱 &nbsp;I'm currently learning **alot**  
 😄 &nbsp;Pronouns: **he/him**  
 ⚡ &nbsp;Fun fact: **im a 8th grader**
